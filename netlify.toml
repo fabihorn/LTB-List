@@ -1,1 +1,3 @@
-
+[build]
+  functions = "functions"  # Verzeichnis für die Netlify Functions
+  publish = "public"       # Verzeichnis für die statischen Dateien (HTML, JS)
